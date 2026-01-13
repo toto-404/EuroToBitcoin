@@ -1,4 +1,4 @@
-function conveertir(){
+function convertir(){
     let euro = document.getElementById("euro").value; 
 
     //Taux au 10/01/2026 : 1 BTC = 77 600 €
